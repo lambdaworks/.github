@@ -1,5 +1,3 @@
-# LambdaWorks
-
 ![lambdaworks](https://img.shields.io/badge/lambdaworks-black?style=flat)
 ![established](https://img.shields.io/badge/est.-2017-black?style=flat)
 
