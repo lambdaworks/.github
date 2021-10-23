@@ -1,6 +1,14 @@
 # LambdaWorks
+![lambdaworks](https://img.shields.io/badge/lambda-works-black?style=flat)
+![founded](https://img.shields.io/badge/since-2017-black?style=flat)
 
-Transforming big ideas into digital products. Let's make smething amazing together!
+---
+
+Transforming big ideas into digital products. Let's make something amazing together!
+
+<br>
+<br>
+<br>
 
 ---
 
