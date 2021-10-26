@@ -2,9 +2,8 @@
 ![established](https://img.shields.io/badge/est.-2017-black?style=flat)
 
 
-Transforming big ideas into digital products. Let's make something amazing together!
+We're here for the idea people, to spark your innovation, to nurture your ideas, to extend your horizons, and to build products that are right for the moment and scalable for the future.
 
-<br>
 <br>
 <br>
 
