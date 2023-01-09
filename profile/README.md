@@ -18,5 +18,5 @@ We're here for the idea people, to spark your innovation, to nurture your ideas,
 <p align="right">
     <cite>We build products.</cite>
     <br>
-    <a href="https://www.lambdaworks.io" target="_blank"> 2022 © LambdaWorks d.o.o.</a>
+    <a href="https://www.lambdaworks.io" target="_blank"> 2023 © LambdaWorks d.o.o.</a>
 </p>
