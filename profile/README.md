@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/est.-2017-black?style=flat" alt="Established badge">
 </picture>
 
+<br>
+<br>
 
 We're here for the idea people, to spark your innovation, to nurture your ideas, to extend your horizons, and to build products that are right for the moment and scalable for the future.
 
@@ -26,5 +28,5 @@ We're here for the idea people, to spark your innovation, to nurture your ideas,
 <p align="right">
     <cite>We build products.</cite>
     <br>
-    <a href="https://www.lambdaworks.io" target="_blank"> 2023 © LambdaWorks d.o.o.</a>
+    <a href="https://www.lambdaworks.io" target="_blank"> 2025 © LambdaWorks d.o.o.</a>
 </p>
